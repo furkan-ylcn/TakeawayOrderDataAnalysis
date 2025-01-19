@@ -51,6 +51,7 @@ Bu dosya, teslimat süresine bağlı olarak bir müşteri puanının iyi (`iyi`)
 
 ### Analiz:
 Bu model %51 doğruluk oranına sahiptir. Dolayısıyla çok güvenilir sonuçlar vereceğini söyleyemeyiz. Daha doğru sonuçlar için SMOTE ile yapay veri üretilerek azınlıkta olan verilerin miktarı arttırılarak model yeniden eğitilebilir. Bu sayede daha yüksek bir F1-score ve doğruluk elde edilebilir. Tabii SMOTE kullanırken verinin genel yapısını bozmamaya ve çok fazla yapay veri enjekte etmemeye dikkat edilmelidir. Çünkü bu bizi elde etmek istediğimiz sonuçlardan uzaklaştırabilir.
+
 ---
 
 ## 3. **FiyatTahmini.py**

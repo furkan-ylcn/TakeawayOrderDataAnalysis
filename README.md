@@ -145,3 +145,8 @@ Dosyaların içeriğini anlattığım videoya linken ulaşabilirsiniz: https://d
 
 ---
 
+## Veri Seti:
+Kullandığım veri setine linkten ulaşabilirsiniz: https://www.kaggle.com/datasets/tolstoyjustin/takeaway-dataset-for-predictive-analytics/data
+
+---
+
